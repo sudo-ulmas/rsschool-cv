@@ -14,6 +14,7 @@ advancement for young developers.
 * Java, OOP, SQL
 * HTML5, CSS3, JavaScript
 * Python (Django) 
+* PHP (Laravel), MVC
 * Git
 ***
 ## **Code Examples:** 
