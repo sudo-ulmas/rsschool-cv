@@ -54,6 +54,7 @@ Created mobile app ([QuranApp](https://github.com/ulmas97/quranApp.git)) for rea
 #### Included to Dean's List
 ***
 ## **English:** 
-### Advanced (2016 IELTS - 6.0)
+### Advanced Level
+### IELTS - 6.0 in 2016
 
 ***
